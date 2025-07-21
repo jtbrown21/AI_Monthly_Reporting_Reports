@@ -1,178 +1,171 @@
 {
-  "last_sync": "2025-07-17T17:17:12.292402",
+  "last_sync": "2025-07-21T06:16:34.256994",
   "headshots": {
     "Keith Thompson": {
       "filename": "keith-thompson-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/wkhPcNBC_VyrtNjrFw5K3g/7dOrVE8O6qdVAR8EUBcpnSU4UE37aDoi8pKBDQz3PQAzTvqrJXB5GVZ9cfYv2BzO99Spd3uxEZSXCu4QaZ9xqSGs1FZCGJbfNE1e-SxACGEskK9NZba1LZhK7flbZv0X08OmDD_hGX_PLimrkOOgEw/Ls7W1TroymODUOzKXdyM8QQoxtn7dOmIOBPZ9P-fYu4",
-      "processed_date": "2025-07-17T17:10:58.569691",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/dJ8JBXmA9g1UhFHhGRAEyA/Di3rM1kWpZpRreDrJkaXiskhB9SuFnLrgPyxbiHrFEa0hL92q_Aw6xWPpsN3b8oCkqt2IlKnAKM8rfTxsEP8TGZUMiBIKjxQEYI69j9Em-XUdVHIZocz-3KjUPQ8HZmoqq4VYY3JxFMJzBr5azLRvw/wAoQOLdFty9GmoPlceCIOrdp6b0grAKWQwCcYQt0Ffo",
+      "processed_date": "2025-07-21T06:16:32.905415",
       "file_size": 24156,
       "github_url": "https://app.agentinsider.co/assets/headshots/keith-thompson-headshot.jpg"
     },
     "Greg Aldridge": {
       "filename": "greg-aldridge-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/GK_dVPdLf4W5BbPHcQLHOQ/KhxtrGthotj3eML-D4tjeLj5L30GCi2lsDMFbIVaG70-7dv28tB7b4qGszotksYyuTJ9nPtpRL7-GPXX9ZsM5xJjU-wVnExkRdlK_1eLFBXAQgunt_BTzpiP1WEonob50NanZO1Ht0YmC1Q_SVbG6sML8j3BAxjdL1NdDrTn7qk/r11QLLOFlLzMqZu-rI1-tevsSylEuWusB5YfvabJHrE",
-      "processed_date": "2025-07-17T17:10:59.551750",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/SUXdDg3XIJOzUn0VtEaLPQ/_KqR5C0UsO65sKixQgTF0uvG_MxvxNKUmn7QJSosqHlHnm4xSa7d-0-07oNKIz8jREfdYJ29n-03nni_7S5-9OYKibW0tN-2k6evgX5YJg3Eah98N51qslERpRWLswzg8Z-e4LN273BKlb6lgry8-6bvUqqT1zNgAf5G0xGS9Uc/TEnGOVtn9g_avhLan6iQ6Sm-P7GAfLZBDTihEbJsPZM",
+      "processed_date": "2025-07-21T06:16:32.905427",
       "file_size": 5236,
       "github_url": "https://app.agentinsider.co/assets/headshots/greg-aldridge-headshot.jpg"
     },
     "Gina Gwynne": {
       "filename": "gina-gwynne-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/1VTOQUEAGeddun3mdTDeQQ/PJsCZkCkgQgxVfg3vhgDxBer8kSalxoDa90PZDXWYigmNpCEBN6mQjBJI6_0s6N0Jp3TuUNwZHhpfmEht87-WdayDWDy6T0UyaA3W377FjOkvS8z88NQ3IJ_QhBp6BnMOjZfkepupbl2JVci59m5kR8Zw5duTY6v-yTNKxZifKQ/lHCEUuUMMXB9estOBqVtGWc3jVMoW4qSHKM409BQtZs",
-      "processed_date": "2025-07-17T17:11:00.595912",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/uvi0JiaFsJbJGUFar9K7Fg/_2EBbvPFmAYDFqam_7vSZ_eiW3LwR7CWZI3hlhxg5ChJ1NPZ6k6S4A-XBtH0KPDRZbcNapfHohcxSHCauegyBuFMbJ-MQ9mu700G00RzaNGeqrdFSwrNGErDokwmsal_kjE9Tsh0GTIrEOjpasruNojdg2DjWpAIMu4aLRaWCds/G58GAxLF5PLkyrkSa5_Yq-OEtABfK6RgI5TQvWQTzQs",
+      "processed_date": "2025-07-21T06:16:32.905430",
       "file_size": 6288,
       "github_url": "https://app.agentinsider.co/assets/headshots/gina-gwynne-headshot.jpg"
     },
     "Kelly Lux": {
       "filename": "kelly-lux-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/hbcez2MrqDasGvg2iUO1Zg/1LbiKtGuOOR5Z-YrehqPxkXKPWxnRg__aC4M1qkmtze8y8TrIy7r5nNCg4BFZAGhjWx2FBhtjQ8krTxo1dwAenBSq9Xr3uJALVcET4wUDJXHyhd2ZpNf6HCRsb0wBS7O8Lz1ISLNw0ND_ph2U0aS1w/5YG_XHnhcz3lfdpPChbF7W_YJ4LE3dIGMBmxCJSMmpk",
-      "processed_date": "2025-07-17T17:11:01.524109",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/gKaIynrh-r-3BZZp-Y1Tjg/E6rwmwiRU96AYHPLSZPI4ZlVYkK0THKA19WUVVK5Spi7LjvKZ6cDiVlZhUGpBYInsDvinVK2qc2CLNuk5df2SQzRcptQ62VLOuv-toQNyZ_hU6F6lNLp8RP8aFV9Nr0L_towSwpOI-9NpkS0_-Ygkg/OkjMhpNQgm1vHIwGYTrq23toGg8WJu9Bo8AZYVDbWS8",
+      "processed_date": "2025-07-21T06:16:32.905433",
       "file_size": 3604,
       "github_url": "https://app.agentinsider.co/assets/headshots/kelly-lux-headshot.jpg"
     },
     "Brad Siok": {
       "filename": "brad-siok-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/7iHsPfGFA6lT4qEHOdirYg/VaMzoU55JoxgTpdqn0OArJtSU-OLQtP7GSlR8cg79HordQAl7mMvy1ZamybRS89zyvuozXTtEqXlgLX5-6Q5yTifmzjPrukUXm1O2f8KlPxxtNSKnkbv4qb6aNHnslfYtS4zrNgq8v4To8M__ELZ0g/AkpaXmtUpvSF_gauZmdDv0VNE8_ziGlrDcX4qpMZJG8",
-      "processed_date": "2025-07-17T17:11:03.112635",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/2FV8F04eeCBCD2whmgSWuA/M_PrQ-uZg4-emfYXbu1CPLGsgiUkhSPk9Ni-NBlvhCxLMVu8k_bzqaeH9p7E56x1FdBzja8EdUzur7rTEXgFTfqOXNwPvXKGzL8nDG0oOTwcpq5J-v3Qx87o2Obg56LJCXs2aMtdTprt-3MsJaA41g/84sW06Eb62lr5CSCzVIRjusS9AQYkL3R8_f_vXmlZao",
+      "processed_date": "2025-07-21T06:16:32.905435",
       "file_size": 696301,
       "github_url": "https://app.agentinsider.co/assets/headshots/brad-siok-headshot.jpg"
     },
-    "Jeff Ehrhardt": {
-      "filename": "jeff-ehrhardt-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/n2nKGo_V4L332y2bCrvodQ/1GcRwiKLkqlilpL0TkqomTSaAnRDYwBZEuLjFIZ_MsHbehl993TM9JlnOCCiWD5ozNNsP7Xwpy4x4GFbUZa1eWLfcFIiWZGiyvbKBaJJVevC48nyeo5oZ4mRJ3KxlnvJCYCHZoCHVSNvIGAM6qQyyxeNyekuBv_CpVxXcoD-T_A/fXCGRsAKbZm3l-2mpxx3l1xbqVG-86WuWnYHBobdZA0",
-      "processed_date": "2025-07-17T17:11:04.652496",
-      "file_size": 572934,
-      "github_url": "https://app.agentinsider.co/assets/headshots/jeff-ehrhardt-headshot.jpg"
-    },
     "Zach Plackemeier": {
       "filename": "zach-plackemeier-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/lEE9Rm4QfKDGSUfiTZS3Jg/LN6HgAiItJ1hGoM3NcgiXaTfuwNA4Jrq3xR1MF2v7bxzQhyqj9wFIY7SlozL1drc-6Z3gckIg8ywkgKpB0FNNuLEyzMmDhvmrJLRSicEvZTC9t9Gfagf13TCRAKCfLs0cVB0D3lzkk60BIsmUFEiOtOnLWe7S6aaFuO_QXW7XYA/7IWT9VYoRwZs59mRhnER4OZ53Gf7xXQCTEOPd2x4arU",
-      "processed_date": "2025-07-17T17:11:05.619699",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/7vMgFMJZgy3DwKiyqThCLg/ji5Cs4K236pdc-yrSaSHnYeo-VXbpZOc7-WDQR9T087yQq7O6B0flxDUvZyWJF6nCzTr4UyCSr7te3yagHS5cEN_Del5a6SXPi9aCloV5Zr21d3wlA4gZCXp3g7RgfzdXCrRiJGt7kIWVrqJpF0eRohI13OZqjoiznoesk6DUyo/Y8sRCwB0DNgZHZ7RNl0IaQ4NPn2UI6zIGhiVBbwp0_c",
+      "processed_date": "2025-07-21T06:16:32.905437",
       "file_size": 4338,
       "github_url": "https://app.agentinsider.co/assets/headshots/zach-plackemeier-headshot.jpg"
     },
     "Kendra Gries": {
       "filename": "kendra-gries-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/DwH3avIFG2vc6RfM7zgZFg/YJGPqDCJwbQZ9bcNSwgbDmCU57TQOjFGlkp9MmjXXkYLEksn4GMMs-V0cnyWhxN2L3xToODDIAAo1wyT6YTLeSXuqXdys3X3Wqr8HOBtmTBcOnq8dPeoBu7mWXDGeSZFUxJVrz89Yh_PentSf9ZHgKVPfDjhm22bPkBbEbPj6cU/gQ38NsWacfsB1dABFTqvzY65w8bbdG02CfKPjb3bk8M",
-      "processed_date": "2025-07-17T17:11:06.674732",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/QNwBNKtcVp39ZvtDtJeIkg/g-l1Z6IXlrr0yhYstMKJzrN5BRq7LM0VpOn5r2MDSB945inHHjAIx8bK46tnaCFZa3KGtp2VeWlCU38xL8oLAc2m7yH7Y3gMrq5YI1LeAATTb3vKcGdgH_lkPVNPfsaI-GxSUfCfDeu1uA9nIdLziuSXS2sEuC2HJzfDApEKr50/IVZ2UDW29VIsk2M13f0a95rjfo1yBeuPHoLrd3xB09k",
+      "processed_date": "2025-07-21T06:16:32.905439",
       "file_size": 44904,
       "github_url": "https://app.agentinsider.co/assets/headshots/kendra-gries-headshot.jpg"
     },
     "Beau Dailey": {
       "filename": "beau-dailey-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/PeTtbAWkcdkrPsB4aUoJDA/j60LHGqUyft0hlAHh0iPdtr8ehix2X51TCRPVM2nig9BpJPw0Q2srpOfHr_3PPAOiL8V8ZeLY_2gKV98mB-BdRB9MRkCqGBwtvNZYIymjja0Nd_EWlBMvdq7drfq_uX220ujYInqfL8Au221bmz15r9vdVErVdUFiPPCpqHNf30/ntVe2ANWeZFWLBhKs-rV1f6fvoiI9poSACU6k6_PH1c",
-      "processed_date": "2025-07-17T17:11:07.779391",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/Ix9k6ZJ0EBgd3mInhJDXxA/_sTIi271_UttIbUCV6snqbWcs3tSUiOr3wIxCYdI9HzRUTobE3g58GdcGbU0f9dgrpcKn1f0X05n3VW1fZA0yYz52BNW2eiBaa-CGmZvykElOyiySORdJn5AtzQYTn578EA6w8jzNF5kSvVlMC6WVzRV0JfYhUOkPc4VCSLhX-g/xVFL2nv2SaPnHwshDKRABREeorks_KD4eLX0YQ0b0fY",
+      "processed_date": "2025-07-21T06:16:32.905441",
       "file_size": 30690,
       "github_url": "https://app.agentinsider.co/assets/headshots/beau-dailey-headshot.jpg"
     },
     "Abby Spachman": {
       "filename": "abby-spachman-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/023RS8c5GAJA6kWAwlE2LQ/VrFVgOymKaz28I5VgezTBjxWe8Bxb3dkVBr9MdpmrHfiFQ_6JcVJaWPUkDfea-c44e1R8i-eEpjT8QquTYYAxPHL-gC3ONJcu6qz7su_xVvKTK85GqsOyd6WOsyk90j_di6UycvJwxIOGwY5kXpgXA/Ui1hdQJI5TT9jHLccrYQoGx8oPyb0rrFZlKy05lPEQM",
-      "processed_date": "2025-07-17T17:11:09.282786",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/1cQUMwXjkD8K5_aV2IgLlA/FM1h76_0CjUpj6wq2aWzj4IFTb3UHhRJ_-tiz9VgA9YSFewNmuAEqyyhimgv_GDKxTeSuZ-zf3eYR7v4YXBnnRFbgYInySS-dEfh1GIgDis-rSaxIFiikfs7yJtx4rsjOPypqO-3TzBftFpbIIyiog/wSHErP994s27t0T4CBvtuXuxlK3K-m00JHDuNW5a4ZU",
+      "processed_date": "2025-07-21T06:16:32.905444",
       "file_size": 418145,
       "github_url": "https://app.agentinsider.co/assets/headshots/abby-spachman-headshot.jpg"
     },
     "Andy Meeuwsen": {
       "filename": "andy-meeuwsen-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/Vq27Cj5G732JOyYWs9N-Nw/XlCLR-5r88xD2L5djJiQEEDBs9FO-XZ9sSkdfuyh-K2z3vNriiCFl3iNCU2AbqOh3cYWlJxoK-tmOpOT05tN4XIeZkassn1fKSOLtNtZumUb4F7-7VYMBAhijJKcdQ5vCOEqNLZoHfEBCVFxU5FlZw/Zl78zP7p6A5rEW9WBNphWO9A9o1K9zSLS-PLajtxWP0",
-      "processed_date": "2025-07-17T17:11:10.559131",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/I3KO5OPSpfRye2Dkcn2mag/txPMD59RM_6dJA9F2rMr2il_FwK1vm6KMEePUTpjPyckCnjVezc2UdELDV3-GHjSDk4nUvGg5_Er1d1OcqTveimeIcgq-hEWELy4rv_K2iKHB8Tyy6Oco5vb2WMLvfw8Xkta4pGnIoWNCVt723-jtg/mr78YS-pvvUR_-SRKwCWYo6hrCLPKhExvTGLf3wXH0s",
+      "processed_date": "2025-07-21T06:16:32.905446",
       "file_size": 163317,
       "github_url": "https://app.agentinsider.co/assets/headshots/andy-meeuwsen-headshot.jpg"
     },
     "Jim Cornwell": {
       "filename": "jim-cornwell-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/VquOhKUONUMO1WliceJfSQ/sGI264LG61j8DXQYeAQzc7vyNUbsSPxXiHMO-06FHvBR7AjXCaruwPvxIMLtwncG6E1LT4Ox7kk-tKbLZkz_Ep1SoXGqf0Xt83nUhh4v0wr_eXWIcH_0JsLmxeRYLglpuWcfhB-WNrJqy9Y5wPbOiA/6VTGmm_vL0Qw8GXm_IFpeB1a0kJ6bJAr_-4Xu5HPhrc",
-      "processed_date": "2025-07-17T17:11:11.722353",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/Xto8tx7H63QQRoi9endcPA/Vf4TMH9KH9w41WqnvnF5J61MtYkRtYo2yzAFyM6ER6_ObZiMWRl40E79RvckYMNk-Zqb-p_mk3Qeqf9FDPMqa08o34hEqmvUmxT_ft9nSSzPQf1lTzSvISKQJ1tq3J7T8Ee0Pl9MjQ-YRB4_7oj0Fw/MPaVk_FHD66ZZcTZKTeEeL4oj2qUzalCq7fOmbajyIQ",
+      "processed_date": "2025-07-21T06:16:32.905448",
       "file_size": 26358,
       "github_url": "https://app.agentinsider.co/assets/headshots/jim-cornwell-headshot.jpg"
     },
     "Jeff Weedin": {
       "filename": "jeff-weedin-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/jHrdLzKUxElV5W9O25mftg/DIkdNgdluw1pAGJesx8spRJtwBP9-tx-fE5FRqWk2zVhykuKgjcQ6jeU5XVrreTfNYpwW49roKkKxdh5MJilps1zRc_kwKybHiPhIZXioxo-fgATo4Re8CHqPOve1X7UXmjN7Q1mjdRRYWioGclQdL8KWgHbV_6MuSHyOn-sP8w/pRHGMkqw-KHt48gVnGRsgI8WHjozNFZ8-oehaXCA7xk",
-      "processed_date": "2025-07-17T17:11:12.894294",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/4jvn62OYPgyztS-JCq1_Rw/5bHSqQbrl58tW5mEw8HENVTz-Pv3hkCg9ytXcUeYXtMPzUV3VaKGlZhfXKYhO0BNLHcY9bm4aHgkUhduCymWb3pFDnpXXITLaD84RAPLuCOaU3PcQQ7U8j0l6_Vl88VcwAsPSRL2wSQjeFWww6z_cVcXoNdM4LnVl1u-Vvsf4cg/q994sbxNoUgmJqi1qBsQ95rqb30uIGUyybPUXexjtZI",
+      "processed_date": "2025-07-21T06:16:32.905450",
       "file_size": 114096,
       "github_url": "https://app.agentinsider.co/assets/headshots/jeff-weedin-headshot.jpg"
     },
     "Angie VanderVinne": {
       "filename": "angie-vandervinne-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/lOHLx0Ydzf6mybk8IJ0XFw/Wg86evDRZmbv15GK_jPTlOHC0NJLIpOp2o7rVx4lzFg64ZtSU3pznyBzPkvBN805YoI8Mtu3nSTu-ZNrLN1uwEI1FYtf68O0l_uQTilzi_0DQ9jbsjUaxxDczBfjVfgJZI_cXOWRTcVLvYez3xpNcoi7O0B2gzJ3vOoHR7Q_DGA/WM38OmgFLwxrgt2XoKyw3a33jbe53A7TbNGo3Ns0VT0",
-      "processed_date": "2025-07-17T17:11:13.882480",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/tJxywi9v7ANlrCVdd-IuwA/A7c2gvAJASb4AxF-Ul5t6z9b_9Ivpo0kIJacv_hzuqAmhDXjKO9BWcwkxW6QFdAXUd9nV0dotDpexfKnq90xIcSSN3T51nOyPENWvGeslIVYNpPqDA3cwmtasxMMjCvME2PcPFHbR8WM_BDI5WVx3nl3b6xIIzMZKX3rN635GzY/fHBdZz14lcjg_2Ub6-vTtNyX09O4WOlM6nLjegw_Vgs",
+      "processed_date": "2025-07-21T06:16:32.905451",
       "file_size": 6496,
       "github_url": "https://app.agentinsider.co/assets/headshots/angie-vandervinne-headshot.jpg"
     },
     "Rick McLean": {
       "filename": "rick-mclean-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/Fs84mlUhduHUNZAO0dPrYA/jYQ5ebA47vvYvSNrmZ0ly9xq5AeQRTDnLCn1N2NMx8SNHnFuFz-XNCpawzpbvFU3HAvKZQAsSnuoJKiNasJqHAePJ_oy0e6McULPMpqAM4oJgUdw6V6r4-3T2g3MIL3Zk51MBcDNMceUVgN8bGa4ug/J3p0Q99b478wU-SzT0fYrC2Zj61XkDJjW8mnwAT3W88",
-      "processed_date": "2025-07-17T17:11:15.143544",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/yLFDCzA0_ji9sDHj-GG5GA/w2WANyAofVD81DQ7ejLgsRDBCC1KYPUcl35NFQyXBFL1cREAt1-0zaPynQ2cdf7UtXeLoHx5WEeywL0MuDwuMGKP6aWnHKB5tGCOWUFjYaVqPyOM4qkwOUAGcqpV4SD4H4Up2UH9hOC-wI7keS-tMg/_tmZeOotww4MOFGI3IaXkCxcPe4eCwppBvx_qoyGPd8",
+      "processed_date": "2025-07-21T06:16:32.905454",
       "file_size": 209108,
       "github_url": "https://app.agentinsider.co/assets/headshots/rick-mclean-headshot.jpg"
     },
     "Craig Duncan": {
       "filename": "craig-duncan-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/DGyky2huLBEkBdF1WwM_cQ/R04RChE9lWqTj99VkbBNTXxNj6mNcVAM2G_1fha4jsZ0OEHS_DeT1M4K3p7qwBoBzNVc4YplpAfgCYzRElNbEMuAFqCIUNU47LzPgbQjZPQ3ODT3rLb45sMSJD22zd19eee_EZPuhpMjEjWMgOnM724HAU7uQZGvl2LisNJ56yw/NRR7NOENcrMYMWJI6is9U6P5C4yqqrpwo2FM_agsbwU",
-      "processed_date": "2025-07-17T17:11:16.076957",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/2gVOHw8GwN1kQFw5SFZXfA/92ms4l6Lb8U0FWJ7M2AZRfG0jsnAyAMDLwMEJyIvTgnidE4looy6iMP77Qi71XY0D2Ia2bH8gxzJ277N0ECufizFyPgWMz_yeMvci4Lgz2NLG7TRdw5Gik9_W0ZOUneMgy4srAJpxTo9zTG8bEWqGY-uhgH12L71WHt85Eh_LOY/76EhXvBIWgiu5ot28HGae8tTK68j5lSvHKTsKR4VegM",
+      "processed_date": "2025-07-21T06:16:32.905455",
       "file_size": 7088,
       "github_url": "https://app.agentinsider.co/assets/headshots/craig-duncan-headshot.jpg"
     },
     "Rusty England": {
       "filename": "rusty-england-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/pnnI9M2GYxe9h9o4xSTpFw/ZXUQhtcAWPNGWVCokKymjFsZdLDLj9O9ga-pg7XKPZygv0RQJuHa0i9IwilyPkj5N9LLkqhEql1txMrgFNwezVxnpaSmv6MVJSsKxV2EeN6IFGemfvJk9M4ld3YNQhf3m_E9pfZSRgBlu-fvcZgkCF6CA881nbbvggGsQYfu6Vg/deTIR4jGAjtODpwClSI-e3GqxbRdMLeZn4Cb2zOdmb4",
-      "processed_date": "2025-07-17T17:11:17.129446",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/ByKV7bBOl_wfMMYB1Pz9Gw/E7Q_uHLt76LEPmncT4XZTRJz4JkWqwOPPRBKQMcqPHWA2Prqqf0zST9VXTQtYU-loz2z8m-4UtQKrHm3fVtRJ_P6csmzS_k2EIfolRNpgQB94PSzCqXEA5YqD8VX8ZeXiWEoigyfGMt1r-MCgWDC3ZKcUO7dmB_Oo_5SJSjxKEQ/hLzQTMBqLQAJLmkikcWa1T6FOaMhFt1f_GlOQjPqUbs",
+      "processed_date": "2025-07-21T06:16:32.905457",
       "file_size": 5338,
       "github_url": "https://app.agentinsider.co/assets/headshots/rusty-england-headshot.jpg"
     },
     "Chandy Frias": {
       "filename": "chandy-frias-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/18hyE2ispA9qkVhgNcAW2Q/g5JspVl6lRdNmhO29AX3V2mUTimiApAPlfCzuzD0_uRbpN-GJ7zy3GAKI2NVSd0Aje_uXLqgCgnnQ6mK-1X1QMyKEDPgaqFBsyn_2DcyR9h_uXI5Q6A1LPgT3BON6Pdpn9gibqu0SmHOAlqH7OfNsQ/e-mjhvrUAnfJerAKCl2l-ly2sCYLmknMQUt0FBaxeWE",
-      "processed_date": "2025-07-17T17:11:18.190457",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/UPRMQHSymg8xZeLgbPAFSA/rBJeau7jme_DBfnhrW6L8jzYKVPthQXtvX5PoUy7lLMnZQViMT1t0wWaoro4vySEkykIITeFtxzP81JdfzLD8Sn-r5BixqAKq1Glj6UbAD5LxKKKzsWi_wKZ9jwpd74NCMszD81hua-DbqQ9I87obA/sFK_CfOeQdrVE8AId-IL-nViYTLkw6TesWCB-v4WLCs",
+      "processed_date": "2025-07-21T06:16:32.905459",
       "file_size": 25594,
       "github_url": "https://app.agentinsider.co/assets/headshots/chandy-frias-headshot.jpg"
     },
     "Michael Lenahan": {
       "filename": "michael-lenahan-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/mM3WtWLYHJDqoISO9f6CdA/BYKGBmln8Avu6FQUJjvMmWLUKjkRoQ0BhKutKrs-B6xCIEVBNKdvIQ8uYo3Uic0QWA1mj3C0u1wOHJFZAWsorECfHrBdvjhdAmG_k3jzbWXEfm6LcnDQalHsy1aPIkTV94zJFXorzph5pKa8oem8ro0iBlci4lFd2rEk1mg_zhE/ArmazeBhSEoYnebp6Bh4odTYLfoM_qqcm_BKFA3StWY",
-      "processed_date": "2025-07-17T17:11:19.458964",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/JW6LoCN7nyQCPg8DFjNL2Q/Mz-wXgppYPINef7zOCR1lFPsPgAT1Jhfi2HoKqJlwc62fAmEfDtinsI13zmKYibi6xXYZNvy_6QIwuPY7vpy2DK6lCwYFUCo4xNoHDj_-5IRgFFEC_gjrF7wjpmQP_mTXLN6SydGxjeT-7vrUHZeo08LpkFnPESLcGKKSgFcFZ0/3hdVXPWGjj33zp_FDF6p7X3yvvmXkuYTAb1-aWxndiA",
+      "processed_date": "2025-07-21T06:16:32.905461",
       "file_size": 184723,
       "github_url": "https://app.agentinsider.co/assets/headshots/michael-lenahan-headshot.jpg"
     },
     "Jim Goldsworthy": {
       "filename": "jim-goldsworthy-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/NKq3uk8yhPl6SW93tPA2jA/x49Ti9Zbu85xl_5k_9NbFL3mXjg1VIvwb5VJ1CC-gLdSZWiOaJkUNRPfhFItPz9ho1g30Q6xJLqKX3YbYptqftL6mxg50r48rXog_V35lxBVcBF51hRvfr_CuY_j1Bepj_AJ-FJCEXoCrBIAc1v5ij9TAzMFohqzC_38plNBjpc/szaBUAVN8bjSyjLpVKhF1vRi7OrR8WNWQLx0NnImxj4",
-      "processed_date": "2025-07-17T17:11:20.507620",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/ltYhFquHtNCbdcR0ALahgA/IoNEW2eQ-Exw9P9hycCvaHSvWjFtwAc12Vfp0exyc9YvF4ecgWDm2Mp3evNuKonFpRwDcjAz96-0VIH8pcgY7t1W2CdTW-w0e5fpKwD4RRXuGBhcHa8vHwq1UZpxAN65Gc04PPoFvgXkp7bCxaNk9dbzXJh1Xg3RTbIekhbJ5g8/MTSN95AZ1oBU0BAyWHy_3uA_RVMgj9RxYdlWLzur-cc",
+      "processed_date": "2025-07-21T06:16:32.905463",
       "file_size": 5216,
       "github_url": "https://app.agentinsider.co/assets/headshots/jim-goldsworthy-headshot.jpg"
     },
     "Justin Shelby": {
       "filename": "justin-shelby-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/y3o18j5Yg5T3I81mA_0E2A/uqDW7R5AaewT3SLf42EyqevnWtIr9uxntKnYrNtyLkKmPY0kzYoBQTsoECNL6zOJsHiIzGrZdMs8Fmw5zoqFrsS_HnenaZApISEMfz2bawQGuiCB7Y_NexUGi6rH4xvE35iS0TE1Q0NBEhk5RYLmn73lDpGijOC67bAtwuJTPWk/E_PtuISpGbBdfKazpjS-FOgGwSQg03tIxide-c5qI_Y",
-      "processed_date": "2025-07-17T17:11:21.642952",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/iILtV9k2COl8WY4Gl3gs6A/eYphLlE5ui1v0KDSyFdHuaywsOEmioW8jIXtXXINtKndaZ77BWQ27ReIOga7NapufJIXW2JhG4q8JQF9-buU3te_63vS7SCTPmxyrzv9YBciqnls_0ckdD849YdAVS-ncKDMl6XUXqUfgiDCJe8fSDFivuyepPNhpAQ750PkU9c/uhhFZpmozvORmp5w0joUOOH9Psb34eG5OBMfMekWTTg",
+      "processed_date": "2025-07-21T06:16:32.905465",
       "file_size": 28472,
       "github_url": "https://app.agentinsider.co/assets/headshots/justin-shelby-headshot.jpg"
     },
     "Laura Zuniga": {
       "filename": "laura-zuniga-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/VAN3ejKCwWAt9X6kUsQUbQ/vVWrG_ijVJjgD5X6iq9VvT3mUHZR-HSItD5T53yyNL1kvFABQbeg0ZLZOZgui6EIKDlLII6EeavmJ3GTiepyfltbE_BkQVlxO-77qrfZX2_a5h1nLA2WaJLv3h56fctphqcSMqkhpfPPqNbZyPBg3S5tBLJGYyYU7EVb3mpVo6c/CLf-vxWOCjvZfEXBEX4eV_gM3ppI60b4asdzPvQLKnw",
-      "processed_date": "2025-07-17T17:11:22.920273",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/GvyS5RwNxJ2W385d_ogqjw/_rBV1CXGZyMcw080tIg16lzcFXar8-6nEXowpoXfZ_ThlOGjGpUhL8m7U8Y-nVXQNDfx1APCthrXWkDFxmLSPoLlBVH_wb3vj-dPIaVydjm-HWulWD592llYiEKx5E331HOpkyF0lp6roEgC8Z4fIi5RKVB34MBoO15Q9CpOXdg/Z1fVFF30YiBZYaIEQyWLY-v2zpF-ikr69TNjpZBz1to",
+      "processed_date": "2025-07-21T06:16:32.905467",
       "file_size": 156964,
       "github_url": "https://app.agentinsider.co/assets/headshots/laura-zuniga-headshot.jpg"
     },
     "Emil Mackey": {
       "filename": "emil-mackey-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/KB-SD44sBWetaITtTsDQ8A/rl-e7IKIyRPpb4MLX7CMBBpJcG4bS4aDnCj14hTf7ETmioTA7bHZu7nFmVLwK9lj2trMgevkcEKmqBZziwAi5yneB8FRAJNTPkvEXgVykg3zHrEpKP6gUaMc80RxA8TKsfs7ATWlcmRowovja6VlNwx-HO5Nbn_K-2H7BkaCbCI/ag8nlyoRwjtXcGBBowlq12a2cvHAZvANhs9szuH5th4",
-      "processed_date": "2025-07-17T17:11:24.174442",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/RFsgFLs70Re9-9LR9_v-nA/lvh9z5FP7h4MRYmkBo7zgNGFGwnsY7IQXUbuUygEapIQc9YmDsp5FdZn-Rd63Wk8iK6clt66SsDaN_d0VIrZPO8rlGzb5Q1dNf9XsszdT-PBYM3tMcfuo4CD81QVnBDzyzCVlWjHfHPBzDbIAWzagjrqc3UOvraw1Wp_h4XW6rc/pURt7Dcm11iBmKksQfmvqlTe1RILuoUo8VBr2alPwH0",
+      "processed_date": "2025-07-21T06:16:32.905469",
       "file_size": 191863,
       "github_url": "https://app.agentinsider.co/assets/headshots/emil-mackey-headshot.jpg"
     },
     "Randy Truett": {
       "filename": "randy-truett-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/R1oJKVp-_K5eIwzyxXe0bQ/CittX18t7gC5ujSVnxPQd6Ir-lFwwRExpcweAgxB7Ah--dmwuo0gf76_RPJWA7eStm2IL2-XCyD9C1wd19x5VZ8RVogaF5GkAtZzJE0IUy6HakGHty-PFSTJ1rvKxSXqNWsTw8faVHrDhKneeJ8hUw/JXnb8rXopXjn7Il9LVgxMO2_VnjWXRKKW6iZ_J26trg",
-      "processed_date": "2025-07-17T17:11:25.160487",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/JysIWttt7vgTsMK__NsoIg/5kxMXX4RMCkqv35fPwfU6NB6QFvZRqb3VCzrnQI-D3rSxvjYGHkIBHMoobIrA2MG008h5O3YSga4DqDpipzft_VuEae-6g2VCuq7nhlgWsNmTZ0JYU1i4zIj2x06Q8qHaE5pL4yROZ_WgZCYiIMviQ/xxeDQIvT9M1qwaQ45SzAMgCVDAm2c5kahIQaunzWmhw",
+      "processed_date": "2025-07-21T06:16:32.905470",
       "file_size": 15014,
       "github_url": "https://app.agentinsider.co/assets/headshots/randy-truett-headshot.jpg"
     },
     "Nereyda Perez": {
       "filename": "nereyda-perez-headshot.jpg",
-      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1752782400000/MTzJfqFKq-3Gv26o2j_6og/zLRLO6ApUzWKtcE_KTeB38rSAarcQP9CHfBUf36JTMTKD6Hl0xQb01b6hCSXJpdEi0VoCZW_5JRlMVrp-xHywX3pWg8OTX_t4_0A-mv4xLRbBT10RO_7ROooyXHXvjhcIlycZgbEiqnBuNZGNKSQ3A/tKHpqO5P5-IcOkAMQ-QgUSCHqxjeCbs_ceoHLoOClmM",
-      "processed_date": "2025-07-17T17:11:26.096871",
+      "url": "https://v5.airtableusercontent.com/v3/u/43/43/1753092000000/vqZBPcCdTzm31Q2Bz4HCWw/X2JS23ZATZg6Z4SmZuaGAPKmXyF-_-3_LdjV1k27UdGxh9xYOurNLyoXszn3LwRi0DNKx3eZ1EqVXyeRhyGmFTgRJNtkDPVpYLuD5YNZ-o7ZWJmDv0ooen34PoXAO5UxTh-Y8niEhMrVpExOJCYa6A/jDS_cjFmHhZHf5bnm1MRJWxx0xqKkFPMq_rI2jhP1XI",
+      "processed_date": "2025-07-21T06:16:32.905472",
       "file_size": 4816,
       "github_url": "https://app.agentinsider.co/assets/headshots/nereyda-perez-headshot.jpg"
     }
